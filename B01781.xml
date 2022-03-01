@@ -1,0 +1,273 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A brief history of the memorable passages and transactions, that have attended the life, and untimely death, of the unfortunate Sir John Johnstoun, who was executed at Tyburn, on the 23d. of December 1690 for stealing Mistress Mary Wharton. Together with his behaviour in prison, and what he wrote there, touching the matter for which he dyed: with his pious exhortations, and dying expressions, &amp;c. With a short elogie, / written by an impartial hand, upon this melancholly occasion.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1694</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B01781</idno>
+            <idno type="STC">Wing B4598C</idno>
+            <idno type="STC">ESTC R176241</idno>
+            <idno type="EEBO-CITATION">51784415</idno>
+            <idno type="OCLC">ocm 51784415</idno>
+            <idno type="VID">174837</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B01781)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174837)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2702:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A brief history of the memorable passages and transactions, that have attended the life, and untimely death, of the unfortunate Sir John Johnstoun, who was executed at Tyburn, on the 23d. of December 1690 for stealing Mistress Mary Wharton. Together with his behaviour in prison, and what he wrote there, touching the matter for which he dyed: with his pious exhortations, and dying expressions, &amp;c. With a short elogie, / written by an impartial hand, upon this melancholly occasion.</title>
+                  <author>Johnston, John, Sir, d. 1690.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>by John Reid, and are to be sold at his printing-house...,</publisher>
+                  <pubPlace>London printed, and reprinted at Edinburgh, :</pubPlace>
+                  <date>Anno Dom, 1694.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Licensed according to Order."</note>
+                  <note>Imperfect: tight binding with some loss of text.</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Wharton, Mary, b. 1676 or 7 --  Kidnapping, 1690.</term>
+               <term>Johnston, John, --  Sir, d. 1690 --  Death and burial.</term>
+               <term>Criminals --  England --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="illustration">
+            <pb facs="tcp:174837:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 43 -->
+            <p>
+               <figure>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+               </figure>
+            </p>
+            <pb facs="tcp:174837:1"/>
+            <!-- PDF PAGE 43 -->
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:174837:2"/>
+            <!-- PDF PAGE 44 -->
+            <pb facs="tcp:174837:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 44 -->
+            <p>A BRIEF HISTORY OF THE Memorable Paſſages and Tranſac<g ref="char:EOLhyphen"/>tions, that have attended the Life, and Untimely Death, of the Unfortunate Sir <hi>John Johnſtoun,</hi> Who was Executed at <hi>Tyburn,</hi> on the 23d. of <hi>December</hi> 1690 For Ste<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ling <hi>Miſtreſs Mary Wharton.</hi>
+            </p>
+            <p>Together with his Behaviour in Priſon, and what he Wrote there, touching the Matt<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r for which he Dyed: With his Pious Exhortations, and Dying Expreſſions, <hi>&amp;c.</hi> With a Short ELOGIE, Written by an Impar<g ref="char:EOLhyphen"/>tial Hand, upon this Melancholly Occaſion.</p>
+            <p>Licenſed according to Order.</p>
+            <p>LONDON Printed, and Reprinted at EDIN<g ref="char:EOLhyphen"/>BURGH, by <hi>John Reid,</hi> and are to be ſold at his Printing-Houſe in <hi>Bell's Wynd,</hi> Anno Dom, 1694.</p>
+         </div>
+      </front>
+      <body>
+         <div type="historical_account">
+            <pb facs="tcp:174837:3"/>
+            <!-- PDF PAGE 45 -->
+            <pb n="3" facs="tcp:174837:3"/>
+            <!-- PDF PAGE 45 -->
+            <head>A Brief HISTORY OF THE Memorable Paſſages and Tranſactions, that have attended the Life and Un<g ref="char:EOLhyphen"/>timely Death, of the Unfortunate Sir <hi>JOHN JOHNSTOUN;</hi> Who was Executed at <hi>Tyburn,</hi> on the 23d. of <hi>December</hi> 1690, for Stealing of Mrs. MARY WHARTON.</head>
+            <p>IF we ſeriouſly conſider the various Circum<g ref="char:EOLhyphen"/>ſtances that attend Humane Affairs, they cannot but make us conclude, with the Philoſopher, that no Man, however proſ<g ref="char:EOLhyphen"/>perous his Condition may be in the beginning, or the greateſt part of his Life, can be accounted Happy, before we ſee his Latter. end: For no Man can be accounted truely ſo, how great or promiſing ſoever his Affairs may be, till the Concluſion crowns the Felicity. It happened once, (as we find it in a Credible Author) that a great and powerful Perſon, admireing in the Progreſs of his many Succeſſors, he was never
+<pb n="4" facs="tcp:174837:4"/>
+               <!-- PDF PAGE 46 -->croſſed, diſappointed, or met with the leaſt Misfortune; Which made him ſeriouſly pon<g ref="char:EOLhyphen"/>der with himſelf, (as we may ſay) to tempt his Deſtiny; and concluded to caſt a precious Ring, which he eſteemed above all his Riches, from a Rock into the Sea, to try how Fortune would deal with him on that account; And ſo it happened, beyond his expectation, that ſeve<g ref="char:EOLhyphen"/>ral Fiſhes being taken for his Uſe, the Ring was found in the Belly of one of them; which ſeized him with a Melancholly and Conceit, That his Misfortunes when they came, would ſit hea<g ref="char:EOLhyphen"/>vy upon him, and ſo indeed it happened; For he ſoon after fell by a violent Death. And many Stories, undoubtedly real, we might mention of this kind, but not being very pertinent to this Affair, what has been ſaid may reaſonably ſuffice; Though to make a little further pro<g ref="char:EOLhyphen"/>greſs of a ſomewhat different nature: Many Perſons, before any grand Misfortune has befal<g ref="char:EOLhyphen"/>len them, have, by an impulſe in the Soul, in one manner or other foreſeen it, and perhaps, laboured to ſhun it one way, when it has unex<g ref="char:EOLhyphen"/>pectedly fallen out the contrary: But to come nearer,</p>
+            <p>This unhappy Perſon, the Subject of our Diſcourſe, whoſe untimely Fall has given an Occaſion of much Talk, was, as farr as we can learn, and as indeed appeared in his Converſa<g ref="char:EOLhyphen"/>tion one of a Liberal Education, the Son of
+<pb n="5" facs="tcp:174837:4"/>
+               <!-- PDF PAGE 46 -->conſiderable Parents who in his tender years, took care to bring him up in thoſe wayes that might make him appear an accompliſhed Gentleman, and carry ſome Figure in the World, dſtinguiſhing him from the Inferiour Rank of Men; not leaving any thing undone that might make him fit for Converſation, or apt to do things worthy of his Birth and Edu<g ref="char:EOLhyphen"/>cation.</p>
+            <p>He was by Birth a Native of <hi>Scotland,</hi> where indeed Learning (and eſpecially the <hi>Latin Tongue</hi>) is very much promoted, and encouragement given on that occaſion, it being a Language intelligable to moſt Nations, eſpecially to Tra<g ref="char:EOLhyphen"/>vellers, or Men of any parts, rendring Con<g ref="char:EOLhyphen"/>verſation familiar in diſtant Countries, and a<g ref="char:EOLhyphen"/>mongſt people otherwiſe of various ſpeech: And although diverſe Advantages offered in his Younger years, yet nothing was ſo pleaſing to him, as a deſire to make himſelf known in the Field of Honour, the thirſt of Military glory filled his Breaſt, and finding no conſidarable Service offer for the Advantage of his own Coun<g ref="char:EOLhyphen"/>trey, he reſolved to make himſelf known a<g ref="char:EOLhyphen"/>broad: And having a ſufficient fortune to defray the charges of ſuch an undertaking, (as being, according to report, no leſs then a Barronet of the Kingdom of <hi>Scotland,</hi> and the ſecond of that Rank, <hi>viz.</hi> Sir <hi>John Johnſton</hi> of <hi>Caskaban:</hi>) Nor did his expectations fail him, for he found
+<pb n="6" facs="tcp:174837:5"/>
+               <!-- PDF PAGE 47 -->good Entertainment in <hi>Flanders,</hi> and other pla<g ref="char:EOLhyphen"/>ces, behaving himſelf ſo like a Gentleman, that he ſoon was taken notice of, and preferred, doing many things that redounded to the gain<g ref="char:EOLhyphen"/>ing him reſpect and Credit: So that being look<g ref="char:EOLhyphen"/>ed upon as a fit perſon for ſervice of this kind, he was not long without a Command, and did many ſignal Exploits, to the Advancement of his own Reputation, and the encouragement of others: And when he had leaſure times, he Travelled to take a Survey of the Countrey, and to inform him in the Manners and Cuſtoms of the People, and ſo he ſpent a conſiderable part of his dayes, and Fortunate had it been for him, if he had alwayes courted Glory in the Camp of <hi>Mars,</hi> and not in an unlucky hour, meddled with the ſoft intrigues of <hi>Venus,</hi> which proved his Ruine: For having now leaſure to be in <hi>England</hi> with his Company, where he behav<g ref="char:EOLhyphen"/>ed himſelf very civilly, and we hear not of any thing that offered as a blot upon him, till a Woman of <hi>Cheſter</hi> accuſed him with a Rape, which afterwards he avers, appeared to be ma<g ref="char:EOLhyphen"/>liciouſly ſuggeſted, the Woman being incited to it, as ſhe ſaid, when it came to a true Under<g ref="char:EOLhyphen"/>ſtanding, by her Brother, who threatned her with death if ſhe would not ſwear it, and to a<g ref="char:EOLhyphen"/>void his fury, fled to <hi>Ireland;</hi> the Circumſtance of which, appears more at large in his Dying Words, though not much pertinent to what w<g ref="char:EOLhyphen"/>here
+<pb n="7" facs="tcp:174837:5"/>
+               <!-- PDF PAGE 47 -->undertake, then that he abſolutely denyed it with his almoſt laſt breath. Likewiſe another Trick of the ſame nature, he ſaid was put upon him at <hi>
+                  <g ref="char:V">Ʋ</g>trecht</hi> in <hi>Holland,</hi> where he Quartered.</p>
+            <p>But to return: He having an opportunity to be in <hi>London,</hi> and frequenting places where a reſort of Gentlemen uſually are, amongſt others, he had a familier acquaintance with one Mr. <hi>Mont<g ref="char:EOLhyphen"/>gomery,</hi> a Genleman of conſiderable fortune; as alſo Captain <hi>James Campbel,</hi> both his Country<g ref="char:EOLhyphen"/>men, though that acquaintance proved very unlucky: However, a ſtrict friendſhip being knit between them, he was found to be one in the party that interprized the carrying away of Mrs. <hi>Mary Wharton,</hi> Daughter to <hi>Philip Wharton,</hi>
+               <abbr>Eſq</abbr> Deceaſed, a Virgin under fourteen years of age, and an Heireſs of 1500, and above a Thou<g ref="char:EOLhyphen"/>ſand pounds in Monies, and other effects; For which he was Tryed, Caſt, and received Sen<g ref="char:EOLhyphen"/>tence at the <hi>Old Baily:</hi> But ſince, having met with a paper ſufficiently teſtified to be his own Hand<g ref="char:EOLhyphen"/>writing, and left as the laſt Proteſtations of a Dying-man, we may, as we hope, without giving any offence, incert the Account he gives of the whole matter, as it happened in the many Circumſtances that attend this affair.</p>
+            <div type="part">
+               <head>His Behaviour in Priſon, and what he wrote there, touching the Matter for which he Dyed.</head>
+               <q>
+                  <p>SIR, (ſayes he, meaning the Miniſter to whom
+<pb n="8" facs="tcp:174837:6"/>
+                     <!-- PDF PAGE 48 -->he gave or ſent the Letter) I think it not amiſs, as a Dying-man, to give you a ſhort account of all my innocency, and all the reaſon they have for bringing me to this untimely End.</p>
+                  <p>On <hi>Fryday</hi> Morning, being the day ſhe was taken way, about ten of the Clock, Captain <hi>Campbel,</hi> and Mr. <hi>Montgomery</hi> came to my Lodg<g ref="char:EOLhyphen"/>ing with a Haunch of Veniſon: I asked them what they were going to do? Mr. <hi>Montgomery</hi> told me, it was to treat Maddam <hi>Biarly,</hi> and the reſt of the young Ladies; And that he would have Captain <hi>Campbel</hi> Married to one of them this night; And asked me if I would go and be a Witneſs to it. I told him, it muſt be by con<g ref="char:EOLhyphen"/>ſent, or I would have nothing to do with it. He told him, that if he did not procure her conſent, he would not meddle with it; And ſo we parted, he deſiring me to come and meet him at ſix of the Clock, at a <hi>Coffie-houſe</hi> near his Lodging, which I did, and met Captain <hi>Campbel</hi> there, and ſometimes afterwards Mr. <hi>Montgomry</hi> came and called us to the door, and told us, <hi>The Buſineſs was done.</hi> About 8 of the Clock, Madam <hi>Biarly's</hi> Coach came by, and they went all away; Captain <hi>Campbel</hi> called a Coach and Six Horſes, and bid us go in and ordeted the Coach-man to drive after her Coach and ſtop in <hi>Great Queens ſtreet.</hi>
+                  </p>
+                  <p>When ſhe was put into the Coach, (as I am a
+<pb n="9" facs="tcp:174837:6"/>
+                     <!-- PDF PAGE 48 -->Dying Man, and now receive the <hi>Sacrament</hi>) I could perceive no diſcompoſure in her at all: For after ſome time ſpent by Mr. <hi>Campbel</hi> in his A<g ref="char:EOLhyphen"/>mours, ſhe began to talk of my Lord <hi>Argyle,</hi> and told us that ſhe had ſeen ſome of his Children at <hi>Ham,</hi> &amp; that he was Married to the Dutches of <hi>Lau<g ref="char:EOLhyphen"/>derdales</hi> Daughter, and asked him if he were the ſecond Brother. Upon ſome Diſcourſe, which I do not well remember, ſhe gave him here hand, that ſhe would marry him. This good Humour continued ſtill with her, ſo that when the <hi>Parſon</hi> deſired her to ſay the <hi>Words</hi> after him, ſhe ſpake with ſo Audible a Voice, that the People in the Room heard her louder than the Mi<g ref="char:EOLhyphen"/>niſter.</p>
+                  <p>After the <hi>Ceremony</hi> was over, it was obſerved, that her Wedding-Ring was too bigg: Her Hus<g ref="char:EOLhyphen"/>band told her he would change it to morrow: She ſaid, <hi>No, it is not Lucky to change a Wedding-Ring.</hi> At Supper there was nothing to be obſerv<g ref="char:EOLhyphen"/>ved, but an equal Satisfaction between both: When it was asked her, whether ſhe inclined to Bed? ſhe freely conſented. The next morning when we came and asked them how they reſt<g ref="char:EOLhyphen"/>ed? ſhe in particular, anſwered, <hi>Very Well.</hi> About 10 of the Clock, Mr. <hi>Montgomery</hi> asked her, if ſhe would go to Mr. <hi>Pontac</hi>'s to Dinner? ſhe ſaid, <hi>With all her Heart:</hi> Where we went and ſtay<g ref="char:EOLhyphen"/>ed till 4 in the Afternoon, and the Houſe full of People. Then we went to our Lodgings,
+<pb n="10" facs="tcp:174837:7"/>
+                     <!-- PDF PAGE 49 -->and played at Cards till half an hour after 9; Then ſhe went to Bed with all the ſeeming plea<g ref="char:EOLhyphen"/>ſantneſs imaginable. This is the Truth, and no more, as I am a Dyng Man; Neither truely, was it ever my intention or deſign, to be a Witneſs of any thing that would look like a Force; Neither indeed, was there any occaſion for it, ſhe being ſo very frank and free of her ſelf to the Marriage. I forgot to tell you, I de<g ref="char:EOLhyphen"/>ſired her in the Coach, not to be afraid of any thing, for I told her, there ſhould be nothing of Force impoſed upon her, ſhe told me, <hi>ſhe was not at all afraid of that;</hi> ſhe wrote likewayes to her Aunt freely a Letter, <hi>Deſiring ſhe might not be troubl<g ref="char:EOLhyphen"/>ed for her, for ſhe was very well with her Husband Captain</hi> Campbel, <hi>&amp;c.</hi>
+                  </p>
+               </q>
+               <p>And in this he perſevered upon his frequent taking the Sacrament; And at the time of Exe<g ref="char:EOLhyphen"/>cution, he likewayes wrote a Letter, to ſhew a Chriſtian Temper, wherein he expreſſed him<g ref="char:EOLhyphen"/>ſelf heartily, willing freely to forgive thoſe that had injured him, intreating and requeſting his Friends to reſt ſatisfied, <hi>&amp;c.</hi>
+               </p>
+               <p>During his continuance in Priſon, after Condemnation, he ſent for ſeveral Eminent Divines to aſſiſt him with Conſolation and Com<g ref="char:EOLhyphen"/>fort, and to prepare him for another World; Appearing wholly to ſet himſelf about the Great Work he had to do, in making ſure his Peace for an Eternal Conſolation; He was oft
+<pb n="11" facs="tcp:174837:7"/>
+                  <!-- PDF PAGE 49 -->in Meditations and Prayers, expreſſing his own vileneſs and unworthineſs, for the ſins he had committed againſt GOD, through the frailty of Youth, and the corruption of Nature; Ear<g ref="char:EOLhyphen"/>neſtly begging that he might be throughly waſh<g ref="char:EOLhyphen"/>ed and cleanſed in the Blood of JESUS CHRIST, that ſo his pollutions being done away, he might at the end of his Life, enter into one more Glo<g ref="char:EOLhyphen"/>rious; and ſo he continued to wean himſelf from worldly things, and fix his thoughts upon everlaſting. Joyes, and have his eyes up to the Place whither he hoped he was haſtening; He ſhewed a very even Temper and Diſpoſition, and received the Counſel and Cordial Advice that was given him, with much heed and atten<g ref="char:EOLhyphen"/>tion, and made all manner of viſible Improve<g ref="char:EOLhyphen"/>ment of it, receiving the Notice, that he muſt prepare for Execution, with great mildneſs and leſs concern, than was expected upon the ap<g ref="char:EOLhyphen"/>proach of ſuch mellancholy News.</p>
+               <p>On <hi>Tueſday</hi> morning about eleven of the Clock, he was put into a Mourning Coach, and followed by a Herſe, to bring back the Body, he was attended by two worthy Divines, and was ſo far from fear of death, that before he came out of the priſon. he bleſſed God that his Mind was ſo well ſatisfied, and by the Grace of God he was ſo prepared to die, that if a Reptive ſhould come<g ref="char:punc">▪</g> it would do him an injury rather than a kindneſs; And when he came to the place
+<pb n="12" facs="tcp:174837:8"/>
+                  <!-- PDF PAGE 50 -->of Execution, one of his friends by the Coach ſide, told him, that he then came from the King, and no Reprive could be obtained for him, at which, he did not in the leaſt ſeem moved, being come out of the Coach, and ſtanding in a Cart, he made a very long ſpeech to the people, moſtly relating to the Circum<g ref="char:EOLhyphen"/>ſtances that attend the unhappy Accident that had occaſioned his coming thither, in all the Matterial points, agreeing with what is menti<g ref="char:EOLhyphen"/>oned in his Letter: And then came to his Ex<g ref="char:EOLhyphen"/>hortaion in theſe, or as near as could be taken, like words.</p>
+            </div>
+            <div type="part">
+               <head>His Pious Exhortations, and dying Expreſſions, <hi>&amp;c.</hi>
+               </head>
+               <opener>
+                  <salute>Gentlemen,</salute>
+               </opener>
+               <q>
+                  <p>I Muſt now exhort you to be carefull for the Salvati<g ref="char:EOLunhyphen"/>on of your own precious Souls: Gentlemen, He that has been a bred Souldier, has not perhaps Lived ſo ſtrick to the Rules of Chriſtianity as ſome other Men. I confeſs, I have left undone thoſe things which I ought to have done, and have done thoſe things which I ought not to have done; But however, Let me intreat you, that you would remember your Latter end: I pray God that none of you all may come to an <g ref="char:V">Ʋ</g>ntimely End, yet remember, that you muſt come to an end, your time muſt have a period: I bleſs God, my Life and Con<g ref="char:EOLhyphen"/>verſation has not been ſo odious and obnoxious to the World, nor I hope, in the Sight of God, but that I <hi>have Confidence in his Mercy, and I</hi>
+                     <pb n="13" facs="tcp:174837:8"/>
+                     <!-- PDF PAGE 50 -->hope that theſe Divines have been with me, can juſtifie that there is nothing that hath come from me, but what hath proceeded from a true and penitent Heart; And I begg, that you would offer up your Prayers to the Throne of Grace for me, becauſe no man can ſay, he does not bear the Prayers of the Righteous, for GOD hides all men to pray, and not to faint.</p>
+                  <p>Well Gentlemen, He that made Heaven and Earth keep and defend you from all Misfortunes, from the power of death and hell, and then you need not fear, for Chriſt is able to ſave to the uttermoſt all that come to him; Therefore offer up Prayer, not only for your ſelves, but for me who am a dying Man.</p>
+               </q>
+               <p>Having ſaid thus much, the Miniſters prayed with him, then he prayed to himſelf, and read two prayers in a book called, <hi>A form of prayers for Priſoners,</hi> then read the 15 and the 103 <hi>Pſalms,</hi> and having prayed again, he put on his cap and took his laſt leave of the Spectators in a moſt humble manner, recommending them to the Protection of Almighty GOD, deſiring the con<g ref="char:EOLhyphen"/>currence of their prayers to the laſt breath; and after he had given the ſign to be turned of the Cart in the midſt of Prayer &amp; pious Ejaculations drew away, and left his Soul to the arms of his Merciful Redeemer, Few eyes that beheld the ſad ſpectacle, refraining from tears, to ſee a Gantleman ſo untimely cut off in the prime and ſtrength of his days, being cut down, His body
+<pb n="14" facs="tcp:174837:9"/>
+                  <!-- PDF PAGE 51 -->was put into the Conffin, and conveyed away in the herſe, and the next day he was Interred.</p>
+               <p>Thus Reader, have we given you a brief Ac<g ref="char:EOLhyphen"/>count of the matterial Circum ſtances that have attended the Life of this Gentleman to his Un<g ref="char:EOLhyphen"/>fortunate Grave, recommending to the perpetual and ſerious Conſideration of either Sex, they may pray God to keep them from ſuch misfor<g ref="char:EOLhyphen"/>tunes. <hi>Amen.</hi>
+               </p>
+            </div>
+         </div>
+         <div type="elegy">
+            <pb n="15" facs="tcp:174837:9"/>
+            <!-- PDF PAGE 51 -->
+            <head>A ſhort ELOGIE, by an impartial Hand, on the untimely Fall of Sir <hi>John Johnſton.</hi>
+            </head>
+            <lg>
+               <l>WHat melancholly thoughts ſhould now ariſe?</l>
+               <l>Here ſighs ſuffice not, this requires wet eyes:</l>
+               <l>Years are the leaſt of Tribute we can pay,</l>
+               <l>When in the prime of Life, Life's ſnatcht away.</l>
+            </lg>
+            <lg>
+               <l>Ah! <hi>Johnſtoun,</hi> thou art gone, misfortunes hand;</l>
+               <l>Has brake the Glaſs and ſeatter'd thy frail Sand;</l>
+               <l>Grim <hi>Death,</hi> an envy'd Triumph has obtain'd,</l>
+               <l>A too too early Conquest he has gain'd.</l>
+            </lg>
+            <lg>
+               <l>So have I ſeen a bluſhing Roſe look gay.</l>
+               <l>And ſcatter'd ſweets in <hi>Focus</hi>'s fragrant way;</l>
+               <l>When ſuddenly a blaſtring Wind hereaves</l>
+               <l>Her of her Glory, withering her Leaves.</l>
+            </lg>
+            <lg>
+               <l>What made thee haſte to an untimely date?</l>
+               <l>I was friendſhip that deſerv'd a better fate:</l>
+               <l>But here's the Comfort, Heaven perhaps decreed,</l>
+               <l>That you from Earth ſhould this hard way be freed.</l>
+            </lg>
+            <lg>
+               <l>Rather then by Diſeaſe, or lingring pain,</l>
+               <l>And in full vigour ſtorm, the Starry plain;</l>
+               <l>Break through the Azure Battlements by Prayer,</l>
+               <l>The Valiant by force are ſeated there.</l>
+            </lg>
+            <lg>
+               <pb n="16" facs="tcp:174837:10"/>
+               <!-- PDF PAGE 52 -->
+               <l>Your pious end did you a Souldier ſhow,</l>
+               <l>To fight for Heaven, as well as Earth below;</l>
+               <l>Go then unenvy'd to the Realms above,</l>
+               <l>Ne'er more to fall a Sacrifice to Love.</l>
+            </lg>
+            <lg>
+               <l>Love there Refin'd, remains no better ſeed</l>
+               <l>Do's mix its Corn to rear a bainful weed;</l>
+               <l>That like wild Gourds do's in the Pot crowd Death,</l>
+               <l>To make what ſhou'd give Life expell our breath.</l>
+            </lg>
+         </div>
+         <div type="epitaph">
+            <head>Epitaph.</head>
+            <l>REader conſider e're you Cenſure paſs,</l>
+            <l>Tho' Death untimely break this brittle Glaſs</l>
+            <l>Pitty at leaſt muſt make you drop a tear,</l>
+            <l>When ſuch misfortune on Earth's Stage appear;</l>
+            <l>Say humane frailty brought him to his end,</l>
+            <l>And in condoling, ſhew your ſelf a Friend.</l>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:174837:10"/>
+            <!-- PDF PAGE 52 -->
+            <pb facs="tcp:174837:11"/>
+            <!-- PDF PAGE 53 -->
+            <pb facs="tcp:174837:11" rendition="simple:additions"/>
+            <!-- PDF PAGE 53 -->
+         </div>
+      </body>
+   </text>
+</TEI>
